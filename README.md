@@ -13,7 +13,7 @@ Deploy on Heroku:
 7. Start worker (Resources)
 
 
-Example Config Vars:
+HEROKU Example Config Vars:
 
 - DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
 - REFRESH_TIMER=60
