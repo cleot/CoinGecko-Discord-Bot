@@ -36,6 +36,6 @@ Discord bot setup:
 
 
 Sources:
-https://realpython.com/how-to-make-a-discord-bot-python/
-https://github.com/juliankoh/ribbon-discord-bot
-https://github.com/melenxyz/abracadabra-tvl-bot
+- https://realpython.com/how-to-make-a-discord-bot-python/
+- https://github.com/juliankoh/ribbon-discord-bot
+- https://github.com/melenxyz/abracadabra-tvl-bot
