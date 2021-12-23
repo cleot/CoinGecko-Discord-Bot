@@ -22,7 +22,7 @@ HEROKU Example Config Vars:
 - DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
 - REFRESH_TIMER=60
 - CONTRACT=0xdac17f958d2ee523a2206206994597c13d831ec7
-- CHAIN=ethereum
+- CHAIN=ethereum # https://api.coingecko.com/api/v3/asset_platforms
 - CURRENCY=usd
 - NAME=USDT
 
