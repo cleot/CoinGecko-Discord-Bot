@@ -14,12 +14,13 @@ Deploy on Heroku:
 
 
 Example Config Vars:
-DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
-REFRESH_TIMER = 60
-CONTRACT=0xdac17f958d2ee523a2206206994597c13d831ec7
-CHAIN=ethereum
-CURRENCY=usd
-NAME=USDT
+
+- DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
+- REFRESH_TIMER = 60
+- CONTRACT=0xdac17f958d2ee523a2206206994597c13d831ec7
+- CHAIN=ethereum
+- CURRENCY=usd
+- NAME=USDT
 
 Discord bot setup:
 https://realpython.com/how-to-make-a-discord-bot-python/
