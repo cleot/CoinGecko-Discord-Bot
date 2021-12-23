@@ -1,4 +1,4 @@
-# CoinGeckoBot-Discord-Bot
+# CoinGecko-Discord-Bot
 CoinGeckoBot Discord Crypto Price Bot
 
 
