@@ -6,7 +6,7 @@ CoinGeckoBot Discord Crypto Price Bot
 
 
 
-Deploy on Heroku:
+Deploy to Heroku:
 
 1. Fork Repo
 2. Create new app on heroku
