@@ -2,6 +2,10 @@
 CoinGeckoBot Discord Crypto Price Bot
 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cleot/CoinGecko-Discord-Bot)
+
+
+
 Deploy on Heroku:
 
 1. Fork Repo
