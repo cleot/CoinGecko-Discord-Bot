@@ -23,4 +23,18 @@ Example Config Vars:
 - NAME=USDT
 
 Discord bot setup:
+1. Go to https://discord.com/developers/
+2. Create new app "New Application"
+3. Bot -> Add Bot
+4. oAuth2 -> URL Generator-> SCOPES: "bot" -> BOT PERMISSIONS: "Administrator" -> GENERATED URL: Copy
+5. Paste URL in new Tab -> select Discord server
+6. Bot -> TOKEN: Copy -> use as "YOUR_DISCORD_BOT_TOKEN"
+ 
+
+
+
+
+
+Source:
 https://realpython.com/how-to-make-a-discord-bot-python/
+
